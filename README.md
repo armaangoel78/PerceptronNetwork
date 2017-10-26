@@ -1,2 +1,2 @@
 # PerceptronNetwork
-PerceptronNetwork for xor
+A perceptron network designed to solve the XOR logic gate in computing. This was my first project in machine learning, and was meant to teach me the basic concepts of the topic. The XOR gate as a whole is actually trained as seperate parts, as there are AND and OR perceptrons that are trained completely seperatly and combined to make the XOR gate, so this is not the ideal solution. 
